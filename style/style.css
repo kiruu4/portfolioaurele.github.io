@@ -22,7 +22,9 @@ header {
     display: flex;
     align-items: center;
     gap: 20px; 
-    background-image: url(/img/canard.gif);
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/img/blaxck.jpg);
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
         
